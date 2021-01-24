@@ -1,6 +1,8 @@
 # App
 Uma calculadora feita com python 3.8 e Kivy.
 
+
+
 ## 1. Para rodar os arquivos instale o kivy e o buildozer:
 
 ```
